@@ -1,4 +1,4 @@
 # Training_Repo
-My FIRST Repo \n
+--MY-- first REPO
 In between these lines a good # is nice
 My FIRST edit to the repo readme FILE 
